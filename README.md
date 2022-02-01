@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @grabelotto
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on gaming program projects
-- 📫 How you can reach me:
-
-E-mail: grabelotto@gmail.com
-
-Instagram: @gatinhanerd_
+[![card](https://github-readme-stats.vercel.app/api?username=grabelotto&theme=dark&show_icons=true)](https://github.com/grabelotto/)
 
 <!---
 grabelotto/grabelotto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
